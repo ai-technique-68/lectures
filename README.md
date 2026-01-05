@@ -3,6 +3,9 @@
 ## Resources
 
 - [Lecture VDO](#)
+- Python Installation
+  - [Windows](https://github.com/ai-technique-68/lectures/blob/main/src/T00_markdowns/windows.md)
+  - [MacOS](https://github.com/ai-technique-68/lectures/blob/main/src/T00_markdowns/mac.md)
 
 ## Introduction
 
@@ -11,4 +14,4 @@
 
 ## Basic Python
 
-- [Code](#)
+- [Code](https://github.com/ai-technique-68/codes/tree/main/src/T01_basic_python/files)
