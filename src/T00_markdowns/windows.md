@@ -16,6 +16,12 @@
 - `powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"`
 - Close and reopen powershell
 
+### (Optional) Install `choco`
+
+> Choco is the command-line tool for Chocolatey, a popular package manager for Windows that automates software installation, updating, and removal using simple commands.
+
+- `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))`
+
 # 3. Install Python
 
 - `uv python install 3.12`
