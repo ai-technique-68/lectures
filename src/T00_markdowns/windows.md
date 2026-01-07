@@ -26,7 +26,7 @@
 - Activate the environment
   - `~/.venv/Scripts/activate.ps1`
 - Install packages
-  - `uv pip install jupyterlab ipykernel pandas scikit-learn matplotlib seaborn openpyxl ruff notebook xlsxwriter`
+  - `uv pip install jupyterlab ipykernel pandas scikit-learn matplotlib seaborn openpyxl ruff notebook xlsxwriter ipywidgets tbparse tensorboard tensorflow torch torchinfo torchvision torchviz tqdm opencv-python`
 
 # 5. Install VSCode
 
