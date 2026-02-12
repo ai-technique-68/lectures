@@ -20,3 +20,7 @@
 
 - [Code](https://github.com/ai-technique-68/codes/tree/main/src/T02_class/files)
 - [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/7hK6noaJqIi)
+
+## Multiple Linear Perceptron
+
+- [Lecture](https://github.com/ai-technique-68/lectures/tree/main/src/T02_mlp)
