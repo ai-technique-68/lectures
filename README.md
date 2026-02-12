@@ -23,4 +23,8 @@
 
 ## Multiple Linear Perceptron
 
-- [Lecture](https://github.com/ai-technique-68/lectures/tree/main/src/T02_mlp)
+- [Lecture](https://github.com/ai-technique-68/lectures/tree/main/src/T03_mlp)
+
+## Basic PyTorch
+
+- [Code](https://github.com/ai-technique-68/codes/tree/main/src/T04_basic_pytorch/files)
