@@ -31,3 +31,7 @@
 ## Basic PyTorch
 
 - [Code](https://github.com/ai-technique-68/codes/tree/main/src/T04_basic_pytorch/files)
+
+## MLP with PyTorch
+
+- [Code](https://github.com/ai-technique-68/codes/tree/main/src/T05_mlp/files)
