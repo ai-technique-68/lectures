@@ -8,6 +8,11 @@
   - [MacOS](https://github.com/ai-technique-68/lectures/blob/main/src/T00_markdowns/mac.md)
 - [Schedule Presentation](https://calendly.com/nirand-p/255749-meeting-presentation)
 
+## Project
+
+- [HTML](/src/T99_project/T99.html)
+- [PDF](/src/T99_project/T99.pdf)
+
 ## Introduction
 
 - [HTML](/src/T01_intro/T01.html)
