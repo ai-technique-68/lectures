@@ -43,5 +43,9 @@
 ## Convolution Neural Network
 
 - [Lecture](https://github.com/ai-technique-68/lectures/tree/main/src/T06_cnn)
-- [Code](#)
+- [Code](https://github.com/ai-technique-68/codes/tree/main/src/T06_cnn/files)
 - [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+
+## CNN Models
+
+- [Code](https://github.com/ai-technique-68/codes/tree/main/src/T07_cnn_models/files)
