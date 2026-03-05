@@ -23,7 +23,7 @@
 
 ## Multiple Linear Perceptron
 
-- [Lecture](https://github.com/ai-technique-68/lectures/tree/main/src/T03_mlp)
+- [Lecture](https://github.com/ai-technique-68/lectures/tree/main/src/T05_mlp)
 - [Back propagation explainer](https://xnought.github.io/backprop-explainer/)
 - [Visual guide to neural network (Part 1)](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks)
 - [Visual guide to neural network (Part 2)](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
@@ -35,3 +35,13 @@
 ## MLP with PyTorch
 
 - [Code](https://github.com/ai-technique-68/codes/tree/main/src/T05_mlp/files)
+
+## MLP with PyTorch
+
+- [Code](https://github.com/ai-technique-68/codes/tree/main/src/T05_mlp/files)
+
+## Convolution Neural Network
+
+- [Lecture](https://github.com/ai-technique-68/lectures/tree/main/src/T06_cnn)
+- [Code](#)
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
