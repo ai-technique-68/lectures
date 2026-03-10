@@ -55,3 +55,8 @@
 ## CNN Models
 
 - [Code](https://github.com/ai-technique-68/codes/tree/main/src/T07_cnn_models/files)
+
+## LLM
+
+- [Lecture](#)
+- [Code](https://github.com/ai-technique-68/codes/tree/main/src/T08_llm/files)
