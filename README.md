@@ -6,6 +6,12 @@
 - Python Installation
   - [Windows](https://github.com/ai-technique-68/lectures/blob/main/src/T00_markdowns/windows.md)
   - [MacOS](https://github.com/ai-technique-68/lectures/blob/main/src/T00_markdowns/mac.md)
+- [Schedule Presentation](https://calendly.com/nirand-p/255749-meeting-presentation)
+
+## Project
+
+- [HTML](/src/T99_project/T99.html)
+- [PDF](/src/T99_project/T99.pdf)
 
 ## Introduction
 
@@ -43,5 +49,9 @@
 ## Convolution Neural Network
 
 - [Lecture](https://github.com/ai-technique-68/lectures/tree/main/src/T06_cnn)
-- [Code](#)
+- [Code](https://github.com/ai-technique-68/codes/tree/main/src/T06_cnn/files)
 - [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+
+## CNN Models
+
+- [Code](https://github.com/ai-technique-68/codes/tree/main/src/T07_cnn_models/files)
