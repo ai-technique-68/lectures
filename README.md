@@ -58,5 +58,5 @@
 
 ## LLM
 
-- [Lecture](#)
+- [Lecture](https://github.com/ai-technique-68/lectures/tree/main/src/T08_llm)
 - [Code](https://github.com/ai-technique-68/codes/tree/main/src/T08_llm/files)
