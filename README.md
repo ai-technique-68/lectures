@@ -8,6 +8,7 @@
   - [MacOS](https://github.com/ai-technique-68/lectures/blob/main/src/T00_markdowns/mac.md)
 - [Schedule Presentation](https://calendly.com/nirand-p/255749-meeting-presentation)
 - [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/7hK6noaJqIi)
+- [Project VDO](https://www.youtube.com/playlist?list=PLNGLpHQhvGrsrcjhWUyttGqA_bKrAmXLA)
 
 ## Project
 
